@@ -1,0 +1,12 @@
+[project]
+name = "openflex-sim-isaac"
+version = "0.1.0"
+description = "Pure Isaac Sim asset repository and conversion pipeline for the OpenFlex wheeled humanoid."
+readme = "README_CN.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "xacro>=2.1",
+]
+
+[tool.uv]
+package = false

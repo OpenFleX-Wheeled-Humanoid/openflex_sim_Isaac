@@ -1,0 +1,30 @@
+{
+  "workspace_root": "/home/openflex/openflex_all/openflex_ws/src",
+  "packages": {
+    "openflex_chassis": {
+      "workspace_path": "openflex_chassis/base_model_interface_layer",
+      "upstream_url": "https://github.com/OpenFleX-Wheeled-Humanoid/base_model_interface_layer.git",
+      "branch": "v1.0_basic"
+    },
+    "lift_slide_description": {
+      "workspace_path": "openflex_lift_slide/lift_slide_description",
+      "upstream_url": "https://github.com/OpenFleX-Wheeled-Humanoid/lift_slide_description.git",
+      "branch": "v1.0_basic"
+    },
+    "openarmx_description": {
+      "workspace_path": "openflex_armx/openarmx_description",
+      "upstream_url": "https://github.com/OpenFleX-Wheeled-Humanoid/openarmx_description.git",
+      "branch": "v1.0_basic"
+    },
+    "openarmx_head_description": {
+      "workspace_path": "openflex_head/openarmx_head_description",
+      "upstream_url": "https://github.com/OpenFleX-Wheeled-Humanoid/openarmx_head_description.git",
+      "branch": "v1.0_basic"
+    },
+    "openarmx_integrated_description": {
+      "workspace_path": "openflex_integrated/openarmx_integrated_description",
+      "upstream_url": "https://github.com/OpenFleX-Wheeled-Humanoid/openarmx_integrated_description.git",
+      "branch": "v1.0_basic"
+    }
+  }
+}

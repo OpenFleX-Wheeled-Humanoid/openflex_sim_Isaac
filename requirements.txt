@@ -1,0 +1,2 @@
+# Compatibility fallback for plain pip users.
+xacro>=2.1
